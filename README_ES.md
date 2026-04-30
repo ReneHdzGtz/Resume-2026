@@ -1,3 +1,5 @@
+![René Hernández - Marketing Lead](./github-preview.svg)
+
 # René Hernández
 
 **Marketing Lead** | Especialista Web3 & Web2 | Constructor de Comunidades  

@@ -1,7 +1,9 @@
+![René Hernández - Marketing Lead](./github-preview.svg)
+
 # René Hernández
 
 **Marketing Lead** | Web3 & Web2 Specialist | Community Builder  
-[Website](https://renehdz.xyz/) • [LinkedIn](https://www.linkedin.com/in/renehdzgtz) • [X/Twitter](https://x.com/rene__hdz) • [Email](mailto:reneweb3@gmail.com)
+[Website](https://renehdz.xyz/) • [LinkedIn](https://www.linkedin.com/in/renehdzgtz) • [X/Twitter](https://x.com/rene__hdz) • [Email](mailto:renehdzgtz@gmail.com)
 
 ---
 
@@ -122,21 +124,21 @@ I build communities, amplify brands, and connect the dots between content strate
 - Content Marketing (Lynda)
 - Google AdWords (Udemy)
 - Design Thinking (Udemy)
-- Creatividad e Innovación (Platzi)
-- Marca Personal(Platzi)
-- Bitcoin y Blockchain(Platzi)
+- Creatividad e Innovación
+- Marca Personal
+- Bitcoin y Blockchain
 
 ---
 
 ## What I'm Open To
 
-- Fractional/full-time marketing roles, especially Web3, Fintech, crypto, and LATAM-focused projects
+- Fractional/full-time marketing roles, especially Web3, crypto, and LATAM-focused projects
 - Consulting and advisory work
 - Community building and DAO operations
 - Content strategy and brand positioning
 - Building the next generation of crypto infrastructure and adoption
 
-**Let's build something together:** [renehdzgtz@gmail.com](mailto:reneweb3@gmail.com)
+**Let's build something together:** [renehdzgtz@gmail.com](mailto:renehdzgtz@gmail.com)
 
 ---
 
