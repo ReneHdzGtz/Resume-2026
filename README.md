@@ -1,4 +1,4 @@
-![René Hernández - Marketing Lead](./github-preview.svg)
+![René Hernández - Marketing Lead](https://raw.githubusercontent.com/ReneHdzGtz/Resume-2026/main/github-preview.svg)
 
 # René Hernández
 
